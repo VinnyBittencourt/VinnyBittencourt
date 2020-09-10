@@ -1,8 +1,5 @@
-### Vinícius de Ataídes Bittencourt
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/vinnybittencourt"
+# Vinícius de Ataídes Bittencourt
+[![Linkedin Badge](https://img.shieldsio/badge/-LarissaAzevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://wwww.linkedin.com/in/VinnyBittencourt)](https://www.linkedin.com/in/vinnybittencourt)
 
 ## Welcome to my profile :wave:
 
