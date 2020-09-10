@@ -1,16 +1,16 @@
-### Hi there 👋
+### Vinícius de Ataídes Bittencourt
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/vinnybittencourt"
 
-<!--
-**VinnyBittencourt/VinnyBittencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my profile :wave:
 
-Here are some ideas to get you started:
+I'm a web developer and web designer focused on learning and growing professionally.
+Feel free to send me any feedback about me or my repositories. 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: click on any of the badges above and call me to chat 💬
+- 👯 I’m looking to collaborate on OpenSource projects or to help the community in any way :books:
+- 🌱 I’m currently learning Javascript/Typescript (Nodejs, ReactJS and React Native) :mortar_board:
+
+
